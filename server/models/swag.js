@@ -35,3 +35,4 @@ module.exports = [
   { id: 35, title: 'Pants ( orange )', category: 'pants', price: 15 },
   { id: 30, title: 'Shorts ( black )', category: 'shorts', price: 15 },
 ];
+
